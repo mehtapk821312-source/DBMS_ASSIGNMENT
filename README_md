@@ -1,0 +1,21 @@
+#This repository is created to store the DBMS laboratory experiments performed during the B.Tech CSE(AI & ML).
+#All experiments are developed using SQL queries and executed on Oracle Database with the support of  SQL*Plus tools.
+#Student Information
+ Student Name: Priyanka Kumari
+ Degree Program: B.Tech CSE(AI & ML)
+ Subject: Database Management Systems
+ Objective: Submission of DBMS laboratory work for academic evaluation
+#Repository Organization
+The repository follows a lab-wise folder structure to maintain clarity and proper organization.
+Each lab directory contains:
+#SQL program files (.sql)
+Faculty-provided problem statement in PDF format
+A dedicated README file describing the lab experiment
+ #List of Experiments
+Lab 01: Data Definition Language (DDL) and Data Manipulation Language (DML)
+#Further laboratory experiments will be uploaded gradually according to weekly assignments.
+Software & Tools Used
+ Oracle Database
+ SQL*Plus
+ GitHub Version Control System
+
